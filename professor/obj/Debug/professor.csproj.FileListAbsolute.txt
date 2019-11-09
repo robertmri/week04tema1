@@ -1,0 +1,6 @@
+C:\Users\rober\OneDrive\Desktop\wantsome projects\week04tema1\week04tema1\week04tema1\professor\bin\Debug\professor.exe.config
+C:\Users\rober\OneDrive\Desktop\wantsome projects\week04tema1\week04tema1\week04tema1\professor\bin\Debug\professor.exe
+C:\Users\rober\OneDrive\Desktop\wantsome projects\week04tema1\week04tema1\week04tema1\professor\bin\Debug\professor.pdb
+C:\Users\rober\OneDrive\Desktop\wantsome projects\week04tema1\week04tema1\week04tema1\professor\obj\Debug\professor.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\wantsome projects\week04tema1\week04tema1\week04tema1\professor\obj\Debug\professor.exe
+C:\Users\rober\OneDrive\Desktop\wantsome projects\week04tema1\week04tema1\week04tema1\professor\obj\Debug\professor.pdb
